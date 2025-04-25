@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="nthabiseng" content="width=device-width, initial-scale=1.0" />
+    <title>my first website</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>welcome to my website</h1>
+        <p> this is a beginnner-friendly site!</p>
+    </header>
+    <main>
+        <section>
+            <h2>about me</h2>
+            <p>hello! i'm learning how to build a websit. this is my first attempt</p>
+        </section>
+        <button onclick="sayhello()">click me!</button>
+    </main>
+    <footer>
+        <p>&copy; 2025 my first website</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
